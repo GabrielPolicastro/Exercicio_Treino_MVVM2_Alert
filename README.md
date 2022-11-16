@@ -1,2 +1,1 @@
-# Exercicio_Treino_MVVM2_Alert
-Exercício de treino em MVVM usando Alert
+# MVVM_training exercise using Alert
