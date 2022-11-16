@@ -1,1 +1,1 @@
-# MVVM_training exercise using Alert
+# MVVM3_training exercise using Alert
